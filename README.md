@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+Akash here! Currently in my 2nd Year studying General Engineering at the University of Cambridge.
+
+In a nutshell, I'm enthusiastic to transform designs from ideas to reality. 
+
+SKILLS: C++ / Python / ReactJS
+
+- 🔭 I’m currently working on a [face follower](https://github.com/Guppy16/Tello-Drone-Face-Follower) using my DJI Tello Drone
+
 <!--
 **Guppy16/Guppy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
