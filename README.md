@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Akash here! Currently in my 2nd Year studying General Engineering at the University of Cambridge.
+Akash here! Currently in my 3rd Year studying Insttrumentations and Control Engineering at the University of Cambridge.
 
 In a nutshell, I'm enthusiastic to transform designs from ideas to reality. 
 
